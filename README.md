@@ -1,8 +1,6 @@
 
 # Plant Disease Classification using CNN
 
-![Project Banner](path/to/your/banner_image.png) <!-- Add your banner image here -->
-
 A deep learning project that classifies plant diseases using Convolutional Neural Networks (CNN). This model can distinguish between healthy plants and those affected by powdery mildew (oïdium) or rust (rouille).
 
 ## Key Features
@@ -11,20 +9,11 @@ A deep learning project that classifies plant diseases using Convolutional Neura
 - 📊 Training visualization and model evaluation
 - 🚀 Ready-to-use prediction system
 
-## Table of Contents
-- [Installation](#installation)
-- [Dataset](#dataset)
-- [Project Structure](#project-structure)
-- [Training the Model](#training-the-model)
-- [Results](#results)
-- [Roadmap](#roadmap)
-- [License](#license)
-
 ## Installation
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/plant-disease-classification.git
+   https://github.com/ImaneBenzegunine/Plant-disease-classification-CNN
    cd plant-disease-classification
    ```
 
@@ -39,6 +28,7 @@ The dataset contains images of plants in three categories:
 - Healthy
 - Powdery Mildew (Oïdium)
 - Rust (Rouille)
+  
 ![image](https://github.com/user-attachments/assets/9ddfce43-b6c3-4385-85a7-77598842170e)
 
 Dataset structure:
@@ -78,7 +68,7 @@ python src/train.py --epochs 20 --batch_size 32
 
 
 ### Prediction Example
-![image](https://github.com/user-attachments/assets/b09f7977-469b-41e6-bc39-5705959702be)
+![image](https://github.com/user-attachments/assets/87c3a9fa-fbaf-425f-9c07-bd8d102a39a7)
 
 
 ## Roadmap
@@ -98,18 +88,3 @@ python src/train.py --epochs 20 --batch_size 32
 **Contributors**: Imane BENZEGUNINE & Anas HANNOUR
 **Contact**: https://www.linkedin.com/in/imane-benzegunine/ and https://www.linkedin.com/in/anas-hannour/
 ```
-
-### Notes for Customization:
-1. Replace placeholder paths with your actual image paths
-2. Add your banner/logo image at the top
-3. Include your roadmap visualization image
-4. Update contact information and contributor details
-5. Add any additional sections specific to your project
-
-For the roadmap image, you can create a simple diagram showing your development process using tools like:
-- [Miro](https://miro.com/)
-- [Lucidchart](https://www.lucidchart.com/)
-- [Excalidraw](https://excalidraw.com/)
-- Or even a simple PowerPoint/Google Slides timeline
-
-Would you like me to suggest any specific improvements to the technical content or structure?

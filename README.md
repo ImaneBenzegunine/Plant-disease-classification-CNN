@@ -3,11 +3,6 @@
 
 A deep learning project that classifies plant diseases using Convolutional Neural Networks (CNN). This model can distinguish between healthy plants and those affected by powdery mildew (oïdium) or rust (rouille).
 
-## Key Features
-- 🖼️ Image preprocessing and data augmentation
-- 🧠 Custom CNN architecture with 92% test accuracy
-- 📊 Training visualization and model evaluation
-- 🚀 Ready-to-use prediction system
 
 ## Installation
 

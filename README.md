@@ -81,5 +81,7 @@ python src/train.py --epochs 20 --batch_size 32
 ---
 
 **Contributors**: Imane BENZEGUNINE & Anas HANNOUR
+
+
 **Contact**: https://www.linkedin.com/in/imane-benzegunine/ and https://www.linkedin.com/in/anas-hannour/
 ```
